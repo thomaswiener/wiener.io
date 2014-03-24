@@ -15,7 +15,7 @@ I am a freelance php expert, with more than 8 years of experience in software de
 As a former CTO and lead developer of several startups in Berlin I am widely experienced in architecture, SOLID programming, test driven
 development and continuous integration solutions.
 
-My priorities are:
+My specialties are:
 
 * [symfony2](http://symfony.com)
 * [capifony](http://capifony.org)
