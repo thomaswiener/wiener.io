@@ -3,6 +3,10 @@ layout: page
 title: About me
 ---
 
+<img src="{{ site.url }}/public/img/about/me.jpg" style="float: right; width: 11rem;"/>
+
+### My name is Thomas Wiener
+
 <p class="message">
     <i>Your expert in Agile Software Engineering</i>
 </p>
