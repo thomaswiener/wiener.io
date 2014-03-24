@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            wiener.io
+tagline:          'A Jekyll theme'
+description:      'Your expert in Agile Software Engineering specialized in <a href="http://symfony.com" target="_blank">symfony2</a>.'
+url:              http://hyde.getpoole.com
+
+author:
+  name:           'Thomas Wiener'
+  url:            'https://www.xing.com/profile/Thomas_Wiener4'
+  email:          'wiener.thomas@googlemail.com'
+
+paginate:         5
+
+# Custom vars
+version:          0.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+my:
+  email:          wiener.thomas@googlemail.com
