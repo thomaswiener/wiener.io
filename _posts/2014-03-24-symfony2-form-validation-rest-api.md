@@ -53,12 +53,51 @@ _gender_ is kinda special because the form will only be valid,
 
 but we will discuss this later on.
 
-Lets focus on the controller that receives the request.
+Lets focus on the controller that receives the request. Usually what you would do,
+if the request came from a form, would look like the following.
 
 ```nginx
-$data = $request->request->all();
-$data =
+# create User Entity
+$user = new User();
+# create Form
+$form = $this->createForm(new UserType(), $user);
+# handle Request
+$form->handleRequest($request);
+# check if valid
+if ($form->isValid()) {
+    # perform some action
+}
+
 ```
+
+with the form type looking like this:
+
+```nginx
+
+class UserType extends AbstractType
+{
+    public function buildForm(FormBuilderInterface $builder, array $options)
+    {
+        $builder
+            ->add('email')
+            ->add('password')
+            ->add('country')
+            ->add('firstname')
+            ->add('lastname')
+            ->add('gender');
+    }
+
+    public function getName()
+    {
+        return 'user';
+    }
+    ....
+}
+
+```
+
+nothing special about that so far.
+
 
 ### Static Form Building
 
