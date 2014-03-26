@@ -8,7 +8,7 @@ title: About me
 ### My name is Thomas Wiener
 
 <p class="message">
-    <i>Your expert in Agile Software Engineering for PHP and symfony2</i>
+    <i>Your expert for Agile Software Engineering in PHP and symfony2</i>
 </p>
 
 I am a freelance php expert, with more than 8 years of experience in software development and 2 years particularly in symfony2.
