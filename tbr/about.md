@@ -1,7 +1,4 @@
----
-layout: page
-title: About me
----
+
 
 <img src="{{ site.url }}/public/img/about/me.jpg"/>
 
