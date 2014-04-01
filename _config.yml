@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            wiener.io
-tagline:          'A Jekyll theme'
+tagline:          'Your expert for Agile Software Engineering specialized in PHP and symfony2.'
 description:      'Your expert for Agile Software Engineering specialized in PHP and <a href="http://symfony.com" target="_blank">symfony2</a>.'
 url:
 baseurl:
