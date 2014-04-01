@@ -1,4 +1,7 @@
-
+---
+layout: x
+title: symfony2::Form Validation for REST APIs
+---
 
 ### Validation, sure! But don't reinvent the wheel
 
