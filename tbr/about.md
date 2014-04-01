@@ -1,6 +1,6 @@
 
 
-<img src="{{ site.url }}/public/img/about/me.jpg"/>
+<img src="{{ site.url }}/public/img/about/me.jpg" style="width: 15em;"/>
 
 ### My name is Thomas Wiener
 
