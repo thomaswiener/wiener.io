@@ -15,7 +15,7 @@ baseurl:          /wiener.io
 author:
   name:           'Thomas Wiener'
   url:            'https://www.xing.com/profile/Thomas_Wiener4'
-  email:          'wiener.thomas@googlemail.com'
+  email:          'thomas@wiener.io'
 
 paginate:         5
 
