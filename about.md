@@ -1,5 +1,5 @@
 ---
-layout: x
+layout: page
 title: About me
 ---
 
@@ -21,15 +21,11 @@ My specialties are:
 * [cakephp](http://cakephp.org)
 * [magento](http://magento.com)
 * [jenkins/ci](http://jenkins-ci.org)
-* [capifony](http://capifony.org)
-* capistrano
+* [capifony](http://capifony.org) / [capistrano](https://github.com/capistrano/capistrano)
 * phpunit
 * tdd
 * architecture
 
 Are you in need of a lead developer and/or consultant for your IT to optimize processes and accelerate your development? Great! <br />
 Give me a call <a href="tel:+49 179 59 44 77 9">+49 179 59 44 77 9</a> or <br />drop me a note <a href="mailto:thomas@wiener.io">thomas@wiener.io</a>.
-
-
-
 

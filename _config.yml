@@ -27,3 +27,6 @@ github:
 
 my:
   email:          wiener.thomas@googlemail.com
+
+#sudo gem install jekyll
+#sudo gem install json
