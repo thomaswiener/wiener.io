@@ -8,7 +8,7 @@ title: PHP-Training
 Are you looking for a PHP/Symfony2 expert for training sessions?
 Do you need an introduction into symfony2 for your developers to get started more quickly?
 
-Then get in touch with [Timon Schröter](http://www.php-schulung.de/en/symfony-training/).
+Then get in touch with <a href="http://www.php-schulung.de/en/symfony-training/">PHP Trainer Timon Schröter</a>.
 
 * Open trainings in Berlin and Munich
 * In-house training Europe-wide (German / English)
